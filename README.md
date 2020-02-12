@@ -9,7 +9,7 @@
 - spark @deprecated
 - tensorflow
 
-## Installation
+## 사용법
 ```shell
 docker run -p 9999:8888 -v `pwd`/data:/app/data -v `pwd`/notebook:/app/notebook kangthink/notebook:latest
 ```
