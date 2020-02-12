@@ -2,6 +2,7 @@
 당장 데이터 분석 환경을 설정해서 연습해 볼 수 있는 docker container
 
 ## 무엇이 설치되어 있나요?
+- python3.6
 - pandas
 - numpy
 - scikit-learn
