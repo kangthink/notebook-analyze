@@ -11,6 +11,7 @@
 
 ## 사용법
 ```shell
+git clone https://github.com/kangthink/notebook-analyze.git
 docker run -p 9999:8888 -v `pwd`/data:/app/data -v `pwd`/notebook:/app/notebook kangthink/notebook:latest
 ```
 
